@@ -7,6 +7,7 @@ This is a command-line python script that will find the set chain from one playe
 - Command-line usage and `python3` installed
   - Default installed command line tools are **PowerShell** on Windows and **Terminal** on Mac OS. If you don't know how to use them, I would suggest looking it up online.
 - smashdata database downloaded and unzipped [(find it here)](https://github.com/smashdata/ThePlayerDatabase)
+- Download the `number.py` file from this repo.
 
 ### Usage
 
